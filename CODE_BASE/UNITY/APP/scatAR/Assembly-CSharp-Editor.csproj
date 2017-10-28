@@ -180,8 +180,17 @@
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
  <HintPath>/Applications/Unity-5.6.3/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
  </Reference>
+ <Reference Include="Mono.Posix">
+ <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/Mono.Posix.dll</HintPath>
+ </Reference>
  <Reference Include="Octokit">
  <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/Octokit.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Threading">
+ <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/System.Threading.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Net.Http">
+ <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/System.Net.Http.dll</HintPath>
  </Reference>
  <Reference Include="GitHub.Logging">
  <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
@@ -189,35 +198,26 @@
  <Reference Include="Rackspace.Threading">
  <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/Rackspace.Threading.dll</HintPath>
  </Reference>
- <Reference Include="Mono.Security">
- <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/Mono.Security.dll</HintPath>
- </Reference>
- <Reference Include="ReadOnlyCollectionsInterfaces">
- <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll</HintPath>
- </Reference>
- <Reference Include="System.Threading">
- <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/System.Threading.dll</HintPath>
- </Reference>
- <Reference Include="GitHub.Api">
- <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/GitHub.Api.dll</HintPath>
- </Reference>
- <Reference Include="System.Net.Http">
- <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/System.Net.Http.dll</HintPath>
- </Reference>
- <Reference Include="GitHub.Unity">
- <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll</HintPath>
- </Reference>
- <Reference Include="AsyncBridge.Net35">
- <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll</HintPath>
- </Reference>
- <Reference Include="Mono.Posix">
- <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/Mono.Posix.dll</HintPath>
- </Reference>
  <Reference Include="ICSharpCode.SharpZipLib">
  <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/ICSharpCode.SharpZipLib.dll</HintPath>
  </Reference>
  <Reference Include="sfw.net">
  <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+ </Reference>
+ <Reference Include="ReadOnlyCollectionsInterfaces">
+ <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll</HintPath>
+ </Reference>
+ <Reference Include="Mono.Security">
+ <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/Mono.Security.dll</HintPath>
+ </Reference>
+ <Reference Include="GitHub.Unity">
+ <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll</HintPath>
+ </Reference>
+ <Reference Include="GitHub.Api">
+ <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/GitHub.Api.dll</HintPath>
+ </Reference>
+ <Reference Include="AsyncBridge.Net35">
+ <HintPath>/Users/cerkut/Developer/cerkut/scatAR/CODE_BASE/UNITY/APP/scatAR/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
