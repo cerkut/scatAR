@@ -1,12 +1,6 @@
-CODE_BASE/UNITY/TANGO_EXAMPLES
-
 *.mp4
 *.wav
 *~
 *.DS_Store
-*.csproj
 
-CODE_BASE/UNITY/findingFirstReflections/Assets/Plugins/*
-CODE_BASE/UNITY/findingFirstReflections/Assets/AssetStoreTools*
-/CODE_BASE/UNITY/findingFirstReflections/Library/*
-CODE_BASE/UNITY/findingFirstReflections/*.csproj
+CODE_BASE/UNITY/TANGO_EXAMPLES
